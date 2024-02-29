@@ -1,1 +1,4 @@
-
+AS56393:
+    description: Frys-IX Route Servers
+    import: AS-FRYS-IX-CONNECTED
+    export: AS215512:AS-ELIVELDICT-NL
