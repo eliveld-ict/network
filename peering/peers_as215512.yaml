@@ -1,4 +1,4 @@
-AS56393:
-    description: Frys-IX Route Servers
-    import: AS-FRYS-IX-CONNECTED
+AS200132:
+    description: NetOne
+    import: AS200132:AS-NETONE-NL
     export: AS215512
