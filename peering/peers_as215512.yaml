@@ -1,7 +1,7 @@
 AS56393:
     description: Frys-IX Route Servers
     import: AS-FRYS-IX-CONNECTED
-    export: AS200132:AS-NETONE-NL
+    export: AS215512:AS-ELIVELDICT-NL
     
 AS207176:
     description: OpenFiber
