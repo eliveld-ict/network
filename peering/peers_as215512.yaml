@@ -12,3 +12,8 @@ AS41441:
     description: SPEED-IX route server peers
     import: AS-IX
     export: AS215512:AS-ELIVELDICT-NL
+    only_with:
+       - 185.1.222.255
+       - 185.1.223.0   
+       - 2001:7f8:b7::a504:1441:1
+       - 2001:7f8:b7::a504:1441:2
