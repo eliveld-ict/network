@@ -7,3 +7,8 @@ AS207176:
     description: OpenFiber
     import: AS-OPENFIBER
     export: AS215512:AS-ELIVELDICT-NL
+    
+AS41441:
+    description: SPEED-IX route server peers
+    import: AS-IX
+    export: AS215512:AS-ELIVELDICT-NL
