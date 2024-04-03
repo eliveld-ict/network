@@ -17,3 +17,9 @@ AS41441:
        - 185.1.223.0   
        - 2001:7f8:b7::a504:1441:1
        - 2001:7f8:b7::a504:1441:2
+       
+AS6939:
+    description: Hurricane Electric
+    import: AS6939:AS-HURRICANE
+    export: AS215512:AS-ELIVELDICT-NL
+    ipv6_limit: 250000
